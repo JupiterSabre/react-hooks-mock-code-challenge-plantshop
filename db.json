@@ -41,6 +41,48 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "rose",
+      "image": "https://bloomscape.com/cdn-cgi/image/quality=75,fit=scale-down,height=580,width=696,metadata=copyright,format=webp/wp-content/uploads/2020/08/bloomscape_fiddle-leaf-fig_indigo-alt.jpg?ver=279582",
+      "price": "25.00",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "hi update please",
+      "image": "https://bloomscape.com/cdn-cgi/image/quality=75,fit=scale-down,height=580,width=696,metadata=copyright,format=webp/wp-content/uploads/2020/08/bloomscape_fiddle-leaf-fig_indigo-alt.jpg?ver=279582",
+      "price": "100.00",
+      "id": 10
+    },
+    {
+      "name": "try try aain",
+      "image": "https://horticulture.co.uk/wp-content/uploads/2019/08/venusflytrap-header-1600x1066.jpg",
+      "price": "100.00",
+      "id": 11
+    },
+    {
+      "name": "meat eating plant",
+      "image": "https://horticulture.co.uk/wp-content/uploads/2019/08/venusflytrap-header-1600x1066.jpg",
+      "price": "15.00",
+      "id": 12
+    },
+    {
+      "name": "again and again",
+      "image": "https://horticulture.co.uk/wp-content/uploads/2019/08/venusflytrap-header-1600x1066.jpg",
+      "price": "12.00",
+      "id": 13
+    },
+    {
+      "name": "yay!",
+      "image": "https://horticulture.co.uk/wp-content/uploads/2019/08/venusflytrap-header-1600x1066.jpg",
+      "price": "1.00",
+      "id": 14
     }
   ]
 }
